@@ -54,4 +54,18 @@ nav {
 .ads-item-text {
   padding: 1em; }
 
+#left-body-item {
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.6);
+  flex-direction: column;
+  padding-top: 0.5em; }
+  #left-body-item .left-menu-item {
+    width: 100%;
+    height: 3em;
+    padding-left: 0.5em;
+    margin-bottom: 1em;
+    background-color: #123123; }
+  #left-body-item .left-menu-item:hover {
+    background-color: #0000AA; }
+
 /*# sourceMappingURL=style.css.map */
