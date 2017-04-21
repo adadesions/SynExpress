@@ -35,7 +35,8 @@ nav {
   width: 500px;
   background-color: #FFF;
   color: #888;
-  padding: 1em; }
+  padding: 1em;
+  visibility: hidden; }
 
 .ads-item {
   width: 100%;

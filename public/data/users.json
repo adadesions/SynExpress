@@ -1,0 +1,22 @@
+[
+  {
+  "id": "001",
+  "name": "Ada",
+  "email": "ada@ada.com"
+  },
+  {
+    "id": "002",
+    "name": "Ada2",
+    "email": "ada2@ada.com"
+  },
+  {
+    "id": "003",
+    "name": "Ada3",
+    "email": "ada3@ada.com"
+  },
+  {
+    "id": "004",
+    "name": "Ada4",
+    "email": "ada4@ada.com"
+  }
+]
